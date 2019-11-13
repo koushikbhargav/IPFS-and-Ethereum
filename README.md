@@ -7,4 +7,4 @@ Steps to run:
 2. npm run build
 3. npm start
 
-Make sure you have Metamas CLI available.
+Make sure you have Metamask CLI available.
