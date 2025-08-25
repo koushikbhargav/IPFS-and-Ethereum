@@ -6,7 +6,7 @@
     "ipfs-http-client": "^39.0.2",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
-    "react-scripts": "3.2.0",
+    "react-scripts": "5.0.1",
     "reactstrap": "^8.1.1",
     "register-service-worker": "^1.6.2",
     "web3": "^1.2.2",
